@@ -1,4 +1,4 @@
-# netlify-clone
+# netlify-clone :smile
 
 ## Project setup
 ```
@@ -20,5 +20,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # netlify-clone
 
 ### Tools
-Tailwindcss
-vue 3
+
+- Tailwindcss
+
+- vue 3
