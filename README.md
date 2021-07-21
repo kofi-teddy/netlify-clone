@@ -1,5 +1,4 @@
-# netlify-clone :smile
-
+# netlify-clone :smile:
 ## Project setup
 ```
 npm install
